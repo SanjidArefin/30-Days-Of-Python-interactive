@@ -13,7 +13,7 @@ How to run this file:
 1. Open the VS Code terminal: Ctrl + `
 2. Move into the project folder with cd:
 
-   cd "D:\coding\30-Days-Of-Python"
+   cd "D:/coding/30-Days-Of-Python"
 
    cd means "change directory". It tells the terminal which folder to use.
 
@@ -23,6 +23,10 @@ How to run this file:
 4. Run the file:
 
    python 01_Day_Introduction/helloworld_practice.py
+
+   If you are already inside the 01_Day_Introduction folder, run:
+
+   python helloworld_practice.py
 
 5. Edit your code, save the file, and run the same command again.
 """
@@ -35,7 +39,12 @@ How to run this file:
 
 # 1. Print your name.
 
+
+
+
 # 2. Print: I am learning Python.
+
+
 
 # 3. Print the name of your country.
 
@@ -47,18 +56,31 @@ How to run this file:
 
 # 4. Add two numbers with +.
 
+
+
 # 5. Subtract two numbers with -.
+
+
 
 # 6. Multiply two numbers with *.
 
+
+
 # 7. Divide two numbers with /.
+
+
 
 # 8. Find the power of a number with **.
 
+print (3**2)
+
 # 9. Find the remainder after division with %.
+
+
 
 # 10. Use floor division with //.
 
+print (9//2)
 
 # ---------------------------------------------------------------------------
 # Practice 3: type()
@@ -67,17 +89,30 @@ How to run this file:
 
 # 11. Check the type of an integer.
 
+
+
 # 12. Check the type of a decimal number.
+
+
 
 # 13. Check the type of a complex number.
 
+
+
 # 14. Check the type of a string.
+
+
 
 # 15. Check the type of a list.
 
+
+
 # 16. Check the type of a dictionary.
 
+
+
 # 17. Check the type of a set.
+
 
 
 # ---------------------------------------------------------------------------
@@ -87,11 +122,18 @@ How to run this file:
 
 # 18. What is 12 + 8?
 
+
+
 # 19. What is 12 / 5?
+
+
 
 # 20. What is 12 // 5?
 
+
+
 # 21. What is 12 % 5?
 
-# 22. What is the difference between type("100") and type(100)?
 
+
+# 22. What is the difference between type("100") and type(100)?
